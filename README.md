@@ -20,6 +20,19 @@ On Windows use `;` instead of `:` if you ever need more than one classpath entry
 LeetCode files are written as `public class TaskNN_Name` with the LeetCode method inside it; to submit, paste the
 method body into LeetCode's `class Solution`.
 
+## Week 1 - Functional programming basics
+| # | Task | Topic |
+|---|------|-------|
+| 1 | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) | functional programming concepts |
+| 2 | Second Highest Number (Stream API, prints -1 if none) | functional programming concepts |
+| 3 | [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem) | lambda expressions |
+| 4 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | lambda expressions |
+| 5 | [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | anonymous functions / functional interfaces |
+| 6 | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | anonymous functions / functional interfaces |
+| 7 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | higher-order functions |
+| 8 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | higher-order functions |
+| 9 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | higher-order functions |
+
 ## Week 2 - Functional programming and streams
 | # | Task | Topic |
 |---|------|-------|
